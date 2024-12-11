@@ -13,7 +13,7 @@ Algorithmic trading has become a crucial aspect of modern financial markets, ena
 - **Slack** for real-time trade notifications
 
 ## 🧩 Data Pipeline Design
-![Data Pipeline Design](images/algotrading.jpg)
+![Data Pipeline Design](algotrading.jpg)
 
 
 ## 🎯 Objectives
