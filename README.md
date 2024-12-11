@@ -12,6 +12,10 @@ Algorithmic trading has become a crucial aspect of modern financial markets, ena
 - **AWS EC2** for cloud deployment
 - **Slack** for real-time trade notifications
 
+## 🧩 Data Pipeline Design
+![Data Pipeline Design](images/algotrading.jpg)
+
+
 ## 🎯 Objectives
 - Develop a structured data pipeline for ingesting, analyzing, and executing stock trades in real time.
 - Automate buy and sell actions based on:
